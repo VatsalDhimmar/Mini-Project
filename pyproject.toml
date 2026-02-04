@@ -11,6 +11,7 @@ dependencies = [
     "pyaudio>=0.2.14",
     "pyside6>=6.9.2",
     "pyslide>=0.5.0",
+    "streamlit>=1.38.0",
     "websocket>=0.2.1",
     "websockets>=15.0.1",
 ]
